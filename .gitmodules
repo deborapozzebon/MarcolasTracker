@@ -1,0 +1,6 @@
+[submodule "MarcolasTracker-app"]
+	path = MarcolasTracker-app
+	url = https://github.com/deborapozzebon/MarcolasTracker-app
+[submodule "MarcolasTracker-api"]
+	path = MarcolasTracker-api
+	url = https://github.com/deborapozzebon/MarcolasTracker-api
